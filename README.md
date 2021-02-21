@@ -2,6 +2,6 @@
 
 Hi, I'm Andrey Sholinka, a passionate self-taught backend developer from Indonesia.
 
-- 🔭 I’m currently working at ...
-- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working at Nusantera
+- 🌱 I’m currently learning ExpressJS
 - 💬 Ask me about anything [here](https://github.com/andsholinka/andsholinka/issues)
